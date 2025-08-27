@@ -19,7 +19,7 @@ It makes your terminal look cooler than your GPU could ever hope to.
 
 1. Clone this repo like your life depends on it:
    ```bash
-   https://github.com/v3-Panwar-Ujjwal/Donut.git
+   git clone https://github.com/v3-Panwar-Ujjwal/Donut.git
    cd Donut
    ```
 2. Compile with gcc (yes, it still exists):
